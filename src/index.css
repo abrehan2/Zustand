@@ -4,11 +4,12 @@
   --COLOR-GRAY-LIGHT: #cccccc;
   --COLOR-ONGOING: #98c1d9;
   --COLOR-DONE: #ee6c4d;
+  --COLOR-BG: #ffa500;
   font-family: Helvetica;
 }
 
 body {
-  margin: 0;
+margin: 0;
 }
 
 * {
